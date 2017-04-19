@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>--action enroll --data "first_name=Adam%3blast_name=Smith%3bdob=12/2/1997%3bgender=Male%3bmarital_status=Single%3bstate=Borno%3blga=Maiduguri%3bphoto=public/photos/915cfe282e802f1de62d9b073.png%3bfinger_1=public/fingers/a5c40c9bade13a8749864e345.png%3bfinger_6=public/fingers/a8759cdcb75823537d8970261.png"</StartArguments>
+  </PropertyGroup>
+</Project>

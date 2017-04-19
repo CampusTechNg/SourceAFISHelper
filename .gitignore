@@ -1,0 +1,9 @@
+SourceAFISHelper/bin/
+SourceAFISHelper/bin/*
+SourceAFISHelper/bin/**/*
+SourceAFISHelper/obj/
+SourceAFISHelper/obj/*
+SourceAFISHelper/obj/**/*
+packages/
+packages/*
+packages/**/*
